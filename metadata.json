@@ -1,0 +1,8 @@
+{
+  "name": "CareCircle - Elder & Helper Connection",
+  "description": "A high-fidelity CareCircle platform mockup connecting elders and verified helpers with real-time request tracking, automated payments, and certificate generation.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera"
+  ]
+}
